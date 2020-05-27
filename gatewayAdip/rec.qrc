@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>internex_new.png</file>
+        <file>internexLOgo.png</file>
+    </qresource>
+</RCC>
